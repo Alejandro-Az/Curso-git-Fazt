@@ -12,7 +12,7 @@
 ## Comandos basicos de **GIT**
 
 * **git init**
-    * Es como indicar "Voy a empezar a usar git en este proyecto"
+    * Es como indicar "Voy a empezar a usar git en este proyecto".
 * **git add nombreDelArchivo**
     * Es para pasar los archivos del **working directory** al **staging area**.
 * **git status**
@@ -26,9 +26,11 @@
 * **git clone**
     * Crea una copia desde el servidor central a la computadora local para poder trabajar con el.
 * **git checkout -- nombreDelArchivoModificado**
-    * Para revertir los cambios de un archivo recientemente modificado
+    * Para revertir los cambios de un archivo recientemente modificado.
 * **git diff nombreDelArchivo**
     * Para ver los cambios recientes del documento.
+* **git log**
+    * Para mostrar en lista el historial de commits hechos.
 
 > *consulta el libro en git-scm.com para mas información* :smile:
 
